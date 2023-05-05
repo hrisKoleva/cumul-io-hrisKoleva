@@ -1,0 +1,10 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "devDependencies": {
+    "tap": "^16.3.4"
+  }
+}
